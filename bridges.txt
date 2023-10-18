@@ -1,0 +1,5 @@
+﻿# Kilde-nummer IP-addresse Port
+320 10.65.7.18 20082 Scanned-pjxdev
+# 431 10.65.6.24 14743 Allergies-pjxdev
+exit 
+
